@@ -1,2 +1,3 @@
 # cs576
-agileSD
+Agile Software Development
+Project: Vestel Contact List Application
